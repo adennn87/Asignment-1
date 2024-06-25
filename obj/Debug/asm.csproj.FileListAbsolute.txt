@@ -1,0 +1,8 @@
+D:\C Sharp\C Sharp\asm\bin\Debug\asm.exe.config
+D:\C Sharp\C Sharp\asm\bin\Debug\asm.exe
+D:\C Sharp\C Sharp\asm\bin\Debug\asm.pdb
+D:\C Sharp\C Sharp\asm\obj\Debug\asm.csproj.AssemblyReference.cache
+D:\C Sharp\C Sharp\asm\obj\Debug\asm.csproj.SuggestedBindingRedirects.cache
+D:\C Sharp\C Sharp\asm\obj\Debug\asm.csproj.CoreCompileInputs.cache
+D:\C Sharp\C Sharp\asm\obj\Debug\asm.exe
+D:\C Sharp\C Sharp\asm\obj\Debug\asm.pdb
